@@ -179,19 +179,19 @@
         <target/>
       </trans-unit>
       <trans-unit id="15b29080c3a1174487551d1312360a47aec356ef" datatype="html">
-        <source>Recent posts</source>
+        <source>Postagens recentes</source>
         <target/>
       </trans-unit>
       <trans-unit id="e674e94dae032628943f23096afbafef5592a594" datatype="html">
-        <source>Your channel</source>
+        <source>Seu canal</source>
         <target/>
       </trans-unit>
       <trans-unit id="7186bd1795bcfa3630694d2a8701591dc21daa88" datatype="html">
-        <source>Recent videos &amp; images</source>
+        <source>Vídeos e imagens recentes</source>
         <target/>
       </trans-unit>
       <trans-unit id="cee463344e8e5672bbd99fa0c0880d1cc83cd1cc" datatype="html">
-        <source>You have no boosts in your <x id="INTERPOLATION"/></source>
+        <source>você não possui viralizações em sua <x id="INTERPOLATION"/></source>
         <target/>
       </trans-unit>
       <trans-unit id="d0d54e88ed1b3e4c70bc3832158251ab585deb27" datatype="html">
@@ -199,23 +199,23 @@
         <target/>
       </trans-unit>
       <trans-unit id="0c19432ad92759328eff41f389ef3b6aa2e77017" datatype="html">
-        <source><x id="INTERPOLATION"/> points</source>
+        <source><x id="INTERPOLATION"/> pontos</source>
         <target/>
       </trans-unit>
       <trans-unit id="6fc5e65900ae1415d3170d5d2842f0dcae1b6645" datatype="html">
-        <source>Accept</source>
+        <source>Aceitar</source>
         <target/>
       </trans-unit>
       <trans-unit id="20c3d69c0b67a74df0aa3920485016b2080578f6" datatype="html">
-        <source>Reject</source>
+        <source>Recusar</source>
         <target/>
       </trans-unit>
       <trans-unit id="53ea2772322e7d4d21515bb0c6dead283f8e18a5" datatype="html">
-        <source>Revoke</source>
+        <source>Revogar</source>
         <target/>
       </trans-unit>
       <trans-unit id="06ec377cc1cc33e01ae959560ee92c3a4a60a03a" datatype="html">
-        <source>Drop your files here</source>
+        <source>Arraste seus arquivos para cá</source>
         <target/>
       </trans-unit>
       <trans-unit id="842a4fcf548e0c52ebab1cb5362f47ab2ca83e12" datatype="html">
@@ -223,31 +223,31 @@
         <target/>
       </trans-unit>
       <trans-unit id="70a67e04629f6d412db0a12d51820b480788d795" datatype="html">
-        <source>Create</source>
+        <source>Criar</source>
         <target/>
       </trans-unit>
       <trans-unit id="2c09fcdb07b78ca4d76599f2ddd491437d61d017" datatype="html">
-        <source>Add file</source>
+        <source>Adicionar arquivo</source>
         <target/>
       </trans-unit>
       <trans-unit id="555cb4d34a358df7985b28af27e4b410772bafa9" datatype="html">
-        <source>Mature content</source>
+        <source>Conteúdo maduro</source>
         <target/>
       </trans-unit>
       <trans-unit id="80f2ade6aa16e76e8d2b6afcd8a2808b95adf9e1" datatype="html">
-        <source>Save to album</source>
+        <source>Salvar no album</source>
         <target/>
       </trans-unit>
       <trans-unit id="e1ab57bd42d004293526a5fd311c8e78926ba554" datatype="html">
-        <source>Drag to upload</source>
+        <source>Arraste para enviar</source>
         <target/>
       </trans-unit>
       <trans-unit id="4134b90cce18c18336564b6750b6bfe2f72d0192" datatype="html">
-        <source>Click to load more</source>
+        <source>Clique para carregar mais</source>
         <target/>
       </trans-unit>
       <trans-unit id="40835edba807e90163665f71b6ca9ad86d721904" datatype="html">
-        <source>Nothing more to load</source>
+        <source>Nada mais a carregar</source>
         <target/>
       </trans-unit>
       <trans-unit id="c8fde66a0022d09a6ec0d3844568e486381d797f" datatype="html">
@@ -255,82 +255,82 @@
         <target/>
       </trans-unit>
       <trans-unit id="a52dae09be10ca3a65da918533ced3d3f4992238" datatype="html">
-        <source>Videos</source>
+        <source>Vídeos</source>
         <target/>
       </trans-unit>
       <trans-unit id="b73f7f5060fb22a1e9ec462b1bb02493fa3ab866" datatype="html">
-        <source>Images</source>
+        <source>Imagens</source>
         <target/>
       </trans-unit>
       <trans-unit id="b3cfd53cabe6b69e4f48b2efcf4809f575bb0ecd" datatype="html">
-        <source>Location off</source>
+        <source>Localização desligada</source>
         <target/>
       </trans-unit>
       <trans-unit id="e4e28b371f8453e22779db590cb0fe67f2a080e8" datatype="html">
-        <source>No results</source>
+        <source>Sem resultados</source>
         <target/>
       </trans-unit>
       <trans-unit id="e56a788973acc4768211e41023f5e6ce56d0dff6" datatype="html">
-        <source>Locating</source>
+        <source>Localizando</source>
         <target/>
       </trans-unit>
       <trans-unit id="753993041c651e919f2afb96cb9d21beba37a8b2" datatype="html">
-        <source>5 miles</source>
+        <source>8 Km</source>
         <target/>
       </trans-unit>
       <trans-unit id="d466e452def78c33c45970d933b353816de42e65" datatype="html">
-        <source>25 miles</source>
+        <source>40 Km</source>
         <target/>
       </trans-unit>
       <trans-unit id="c02eaf5cf1ce57b2ac7cb72eb1ca6629ad898888" datatype="html">
-        <source>50 miles</source>
+        <source>80 Km</source>
         <target/>
       </trans-unit>
       <trans-unit id="ec9f78ca7d87211441a468e5ed42dcd2ef142491" datatype="html">
-        <source>100 miles</source>
+        <source>160 Km</source>
         <target/>
       </trans-unit>
       <trans-unit id="169eed2bc3e08e1bea977bcc5d799379f6b8a758" datatype="html">
-        <source>of</source>
+        <source>de</source>
         <target/>
         <note priority="1" from="description">Distance from a city</note>
       </trans-unit>
       <trans-unit id="755c70a4f8802f7b220e8959e9ff8a048b110c1b" datatype="html">
-        <source>Enter your city...</source>
+        <source>Entre sua cidade...</source>
         <target/>
       </trans-unit>
       <trans-unit id="e3259367f200eff68cd845227b030f5e986249ef" datatype="html">
-        <source>Select your city:</source>
+        <source>Selecione sua cidade:</source>
         <target/>
       </trans-unit>
       <trans-unit id="8272de798dd803f04d5e5fcbe1013bc6267aa010" datatype="html">
-        <source>Pass</source>
+        <source>Passar</source>
         <target/>
       </trans-unit>
       <trans-unit id="63a98dd490121d8ac5b80c9420856f56f8610751" datatype="html">
-        <source>Please check the username</source>
+        <source>Favor verificar nome de usuário</source>
         <target/>
       </trans-unit>
       <trans-unit id="c53dfdadddc7b273928981315a96526724c69b66" datatype="html">
         <source>Feed</source>
         <target/>
-        <note priority="1" from="description">Count of activities</note>
+        <note priority="1" from="description">Histórico de atividades</note>
       </trans-unit>
       <trans-unit id="bae722c293c5ea375eff3746b67e47f7c937c018" datatype="html">
-        <source>Supporters</source>
+        <source>Apoiadores</source>
         <target/>
-        <note priority="1" from="description">Count of supporters</note>
+        <note priority="1" from="description">Lista de apoiadores</note>
       </trans-unit>
       <trans-unit id="2326d5adeb13a23a2f1e6f598625f0bf73952899" datatype="html">
-        <source>Subscribers</source>
+        <source>Seguidores</source>
         <target/>
       </trans-unit>
       <trans-unit id="357064ca9d9ac859eb618e28e8126fa32be049e2" datatype="html">
-        <source>Subscriptions</source>
+        <source>Seguindo</source>
         <target/>
       </trans-unit>
       <trans-unit id="2264232fea2aca5a353194d92073ee3d28646964" datatype="html">
-        <source>You have blocked @<x id="INTERPOLATION"/></source>
+        <source>Você bloqueou @<x id="INTERPOLATION"/></source>
         <target/>
       </trans-unit>
       <trans-unit id="19991529f3b2827b8665b273580c9d52194df9e8" datatype="html">
@@ -338,11 +338,11 @@
         <target/>
       </trans-unit>
       <trans-unit id="05738562bcafdd131d91e8b376e1ed0f3ae99ab5" datatype="html">
-        <source>View More</source>
+        <source>Veja Mais</source>
         <target/>
       </trans-unit>
       <trans-unit id="dfc3c34e182ea73c5d784ff7c8135f087992dac1" datatype="html">
-        <source>All</source>
+        <source>Todos</source>
         <target/>
       </trans-unit>
       <trans-unit id="cafc87479686947e2590b9f588a88040aeaf660b" datatype="html">
@@ -350,23 +350,23 @@
         <target/>
       </trans-unit>
       <trans-unit id="c5bb9f8936cb33db2ca351a1b87a984fdf11917c" datatype="html">
-        <source>Comments</source>
+        <source>Comentários</source>
         <target/>
       </trans-unit>
       <trans-unit id="e529a838fc187be22765a4be134c6b13befb42b3" datatype="html">
-        <source>Boosts</source>
+        <source>Viralizações</source>
         <target/>
       </trans-unit>
       <trans-unit id="5e29ddde3eccf8b25e541e11b260098361553fd5" datatype="html">
-        <source>Votes</source>
+        <source>Votos</source>
         <target/>
       </trans-unit>
       <trans-unit id="80ee2353dd777ed9a96923734d2bb3181c8d455e" datatype="html">
-        <source>Reminds</source>
+        <source>Compartilhamentos</source>
         <target/>
       </trans-unit>
       <trans-unit id="dd3b6c367381ddfa8f317b8e9b31c55368c65136" datatype="html">
-        <source>Activities</source>
+        <source>Atividades</source>
         <target/>
       </trans-unit>
       <trans-unit id="23c6b929a5764f662e285cea81fe612b206bc445" datatype="html">
