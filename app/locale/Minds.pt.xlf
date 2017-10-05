@@ -175,8 +175,7 @@
       </trans-unit>
       <trans-unit datatype="html" id="8e889a244139b31d51c55aa8ad0d121dd06327e5">
         <source>Boosting guarantees more views on your posts and content</source>
-        <target state="translated">Viralização garante mais visualizações em suas postágens e conteúdos.
-</target>
+        <target state="translated">Viralização garante mais visualizações em suas postágens e conteúdos.</target>
       </trans-unit>
       <trans-unit datatype="html" id="15b29080c3a1174487551d1312360a47aec356ef">
         <source>Recent posts</source>
@@ -379,71 +378,71 @@
       </trans-unit>
       <trans-unit datatype="html" id="9f1dbbf0775b2fb2b925d332398e0c9ecfb3cf12">
         <source>Ledger</source>
-        <target/>
+        <target state="translated">Registro</target>
       </trans-unit>
       <trans-unit datatype="html" id="4d473bc27b3e484136974196711116b044c61f44">
         <source>Buy points</source>
-        <target/>
+        <target state="translated">Compre pontos</target>
       </trans-unit>
       <trans-unit datatype="html" id="e9b20759c1622ea499566ab5ca7084c79b6c8b66">
         <source>Monetization Settings</source>
-        <target/>
+        <target state="translated">Configurações de monetização</target>
       </trans-unit>
       <trans-unit datatype="html" id="2aaa9f0b1f22b70c11ae635ca33919249029d902">
         <source>Ad Sharing</source>
-        <target/>
+        <target state="translated">Compartilhamento de anúncios</target>
       </trans-unit>
       <trans-unit datatype="html" id="fe52dcf263093592ba1d904e6a0e46d96a2cb47c">
         <source>Change your settings</source>
-        <target/>
+        <target state="translated">Mudar suas configurações</target>
       </trans-unit>
       <trans-unit datatype="html" id="7ecf438957a9aaed9862c19c227ba397e8087fa8">
         <source>Deactivate channel</source>
-        <target/>
+        <target state="translated">Desativar canal</target>
       </trans-unit>
       <trans-unit datatype="html" id="90b6ac5488008996719a106307bd8f0d259d863e">
         <source>Two factor authentication</source>
-        <target/>
+        <target state="translated">Autenticação de dois fatores</target>
       </trans-unit>
       <trans-unit datatype="html" id="072b24be295d6063b08b8fdd27d0f3cf1ef0e737">
         <source>Paid subscriptions</source>
-        <target/>
+        <target state="translated">Inscrições pagantes</target>
       </trans-unit>
       <trans-unit datatype="html" id="5fa5c05063493603a4bba6c2341641a83fb0be18">
         <source>Enter password</source>
-        <target/>
+        <target state="translated">Entre sua senha</target>
       </trans-unit>
       <trans-unit datatype="html" id="aac99820b81b63dd081ef9449080e545df8b03cd">
         <source>Unlock</source>
-        <target/>
+        <target state="translated">Destravar</target>
       </trans-unit>
       <trans-unit datatype="html" id="3da600d1c07bca497e04290639e681b36c50d65c">
         <source>Enter a password</source>
-        <target/>
+        <target state="translated">Crie uma senha</target>
       </trans-unit>
       <trans-unit datatype="html" id="2880518d3a5544fa6cd834b1ac80e47978a9c7c4">
         <source>Confirm your password</source>
-        <target/>
+        <target state="translated">Confirme sua senha</target>
       </trans-unit>
       <trans-unit datatype="html" id="ff3774138bffaf62a4b812046dfbb9939c42657e">
         <source>Setup</source>
-        <target/>
+        <target state="translated">Configurações</target>
       </trans-unit>
       <trans-unit datatype="html" id="8fcd5ac68b67a75cbedc58af3cdbe43871cb52b6">
         <source>Changing your encryption password will cause your previous messages to be unreadable.</source>
-        <target/>
+        <target state="translated">Alterar sua senha de encriptação tornará suas mensagens anteriores ilegíveis.</target>
       </trans-unit>
       <trans-unit datatype="html" id="d7b35c384aecd25a516200d6921836374613dfe7">
         <source>Cancel</source>
-        <target/>
+        <target state="translated">Cancelar</target>
       </trans-unit>
       <trans-unit datatype="html" id="024cdb2814b0cb3f4ced148f1a0b9854447cb214">
         <source>Change</source>
-        <target/>
+        <target state="translated">Alterar</target>
       </trans-unit>
       <trans-unit datatype="html" id="5a089bf395596f2cf60308df8ab5155b57e7808f">
         <source>Delete chat history</source>
-        <target/>
+        <target state="translated">Ecluir histórico de bate-papo</target>
       </trans-unit>
       <trans-unit datatype="html" id="bf463b189696c19769ea263227e6c22aefafb918">
         <source>Destroy</source>
